@@ -25,6 +25,7 @@
     "redux-logger": "^2.6.1",
     "redux-persist": "^3.5.0",
     "redux-thunk": "^2.1.0",
+    "remote-redux-devtools": "^0.4.8",
     "tween-functions": "^1.2.0"
   },
   "devDependencies": {
